@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jlxhtjx.github.io</id>
     <title>Gridea</title>
-    <updated>2020-03-18T11:35:56.779Z</updated>
+    <updated>2020-03-18T13:44:13.728Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jlxhtjx.github.io"/>
     <link rel="self" href="https://jlxhtjx.github.io/atom.xml"/>
@@ -10,6 +10,23 @@
     <logo>https://jlxhtjx.github.io/images/avatar.png</logo>
     <icon>https://jlxhtjx.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[关于我成为程序员这件事]]></title>
+        <id>https://jlxhtjx.github.io/post/guan-yu-wo-cheng-wei-cheng-xu-yuan-zhe-jian-shi/</id>
+        <link href="https://jlxhtjx.github.io/post/guan-yu-wo-cheng-wei-cheng-xu-yuan-zhe-jian-shi/">
+        </link>
+        <updated>2020-03-18T11:36:00.000Z</updated>
+        <content type="html"><![CDATA[<pre><code>明天2020年3月19日，我就要开始上班了，作为实习生的每一天，都打算用键盘一点一点的记录一下，不管是程序相关的，还是上班的好玩的事情。我想当程序员，也不是一件非常无趣的事儿嘛，总是有些好玩的事情值得纪念的不是嘛？
+今天最后一天，早上自己先是起来听课，上完课差不多10点了，刷牙洗脸，准备做饭。好歹该吃法了，昨晚被迫营业，远程帮着朋友修锁，最后无功，帮她找了位锁匠，然后一直视频看着，担心别人的安全。也是好巧，因为有些问题想问她，而我就被迫营业了，折腾到差不多一点钟。然后肚子饿了，忍着睡觉了，冰箱里还有鸡爪。
+但是到早上四点半终于忍不住了，起来到厨房扒拉了一碗剩饭。在之后，就到早上10点了。
+早上做的是蛋炒饭以及昨天做的盐鸡爪子。吃的味道还不错。
+晚上等两位同居舍友回来，一直等了很久，终于回来之后，一起吃饭。现在就等着第二天的上班实习了。其实并不是很兴奋。只是有些过分担心，一步一步在心里筹划着接下来需要准备的事情，记在自己的小本本上。
+不过准备越多，都无关紧要，都是现场教学才重要，那我们就学中做，做中学吧，这是一个著名的教育学理念，不管我明天会迎来怎么样的命运，都请我有一个放松的心态去接受，做好自己想做的事情就好了。
+
+好啦，关于我即将成为程序员这件事，就这么告一段落了。也有小小的目标期待着去实现。
+</code></pre>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Me blog]]></title>
         <id>https://jlxhtjx.github.io/post/me-blog/</id>
